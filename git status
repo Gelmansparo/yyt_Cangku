@@ -1,0 +1,41 @@
+[33mcommit 006777d166f540a487a74368afd045351ce7515c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: yaoyuting <2576728098@qq.com>
+Date:   Tue Apr 12 22:50:45 2022 +0800
+
+    创建了.gitignore忽略文件
+
+[33mcommit 6a60900616755f75201e56946bc5f31299706008[m
+Author: yaoyuting <2576728098@qq.com>
+Date:   Tue Apr 12 22:30:44 2022 +0800
+
+    移除了css和js
+
+[33mcommit ee670d3ccd1c21e5875bf1a718651081b691c6d8[m
+Author: yaoyuting <2576728098@qq.com>
+Date:   Tue Apr 12 22:26:50 2022 +0800
+
+    “先提交js”
+
+[33mcommit 5c7032e758d95b68f0fa267382dfa4956dfaafdb[m
+Author: yaoyuting <2576728098@qq.com>
+Date:   Tue Apr 12 22:23:03 2022 +0800
+
+    css+html跳过暂存区
+
+[33mcommit dd30778c86f9a9ce677fdde2b1ce8a87dd82501e[m
+Author: yaoyuting <2576728098@qq.com>
+Date:   Tue Apr 12 22:18:01 2022 +0800
+
+    修改了index.html和新增了index.css
+
+[33mcommit ed1680bb22257857f209887c319950c549f96d0f[m
+Author: yaoyuting <2576728098@qq.com>
+Date:   Tue Apr 12 21:58:21 2022 +0800
+
+    初始化了index.html文件
+
+[33mcommit 6e640d07ec685e497441a904f9b6a2c1adb902b8[m
+Author: yaoyuting <2576728098@qq.com>
+Date:   Tue Apr 12 21:47:26 2022 +0800
+
+    新建了index.html文件
